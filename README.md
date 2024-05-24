@@ -1,4 +1,4 @@
-# Magig Mobile Footer Menu
+# Magic Mobile Footer Menu
 ## Demo
 Take a look at this beatiful demo here: [Link Coming Soon]
 ## How 2 Use?
